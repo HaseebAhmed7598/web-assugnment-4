@@ -1,0 +1,120 @@
+
+.navbar {
+    background-color: whitesmoke !important; 
+
+    
+}
+.nav-link {
+    color: black !important;
+    display: inline !important;
+    font-size: 20px;
+}
+li:hover{
+background-color: white;
+
+}
+.footer{
+    margin-top: 15px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+}
+.fa-facebook{
+    font-size: 32px !important;
+
+}
+
+.fa-twitter{
+    font-size: 32px !important;
+    margin-left: 8px;
+
+}
+
+.fa-youtube-play{
+    font-size: 32px !important;
+    margin-left: 8px;
+
+}
+.fa-linkedin{
+    font-size: 32px !important;
+    margin-left: 8px;
+
+
+}
+.lin {
+    color: black !important;
+    
+
+}
+
+.fa-user-o {
+    font-size: 28px !important;
+    margin-left: 45px;
+}
+.fa-cart-plus {
+    font-size: 28px !important;
+    margin-left: 15px;
+
+}
+.Newarrivals {
+    margin-top: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri;
+    font-weight: bold;
+}
+.card {
+    margin-top: 15px;
+}
+
+.mens {
+    margin-top: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri;
+    font-weight: bold;
+
+}
+
+
+.submit{
+
+    text-align: center;
+    margin-top: 10%;
+    }
+    .delivery {
+        margin-left: 170px;
+        margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri;
+    }
+    .contact {
+        margin-left: 170px;
+        margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri;
+
+    }
+
+    .return {
+
+        margin-left: 170px;
+        margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri;
+
+    }
+
+
+    .about {
+
+        text-align: center;
+        margin-top: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri;
+        font-size: 20px;
+    }
+
+    .n1 {
+
+        margin-top: 20px;
+    }
+
+
+    .carousel-inner {
+        width: 100% !important;
+        height: 10% !important;
+        margin-top: 10px;
+    }
+    
